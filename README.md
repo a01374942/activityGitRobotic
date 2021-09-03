@@ -138,7 +138,7 @@ All commands should work for at least git version 2.13.0. See the [git website](
   - [Git Shortcuts](#git-shortcuts)
     - [Git Bash](#git-bash)
     - [PowerShell on Windows](#powershell-on-windows)
-- [Other Resources](#other-resources)
+- [Other Resources](#other-resources) https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code
   - [Books](#books)
   - [Tutorials](#tutorials)
   - [Scripts and Tools](#scripts-and-tools)
